@@ -458,7 +458,7 @@ transition: all 250ms ease-in-out 0s;
 /* dark mode */
 
 body.dark-mode, .dark-mode header.header , .dark-mode .comment {
-    background-color: #212121;
+    background-color: #888787;
     border-bottom: 1px solid #5f6368;
 }
 .dark-mode a.item-tag {
@@ -471,7 +471,7 @@ color: #656fff;
 .dark-mode .dropdown-item:focus, .dark-mode .dropdown-item:hover {
     color: #fff;
     text-decoration: none;
-    background-color: rgba(153, 149, 149, 0.349);
+    background-color: rgb(140 140 140 / 15%);
 }
 .dark-mode article.article, .dark-mode .dropdown-menu.show{
     background-color: #232424;
