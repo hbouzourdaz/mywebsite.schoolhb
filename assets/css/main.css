@@ -1,5 +1,5 @@
-@font-face{font-family:"helveticaneuereg";src:local('helveticaneuereg'),url("/assets/fonts/ArbFONTS-Tajawal-Regular.ttf") format("woff");font-weight:400;font-style:normal;font-display: swap;}
-@font-face{font-family:"helveticaneuereg";src:local('helveticaneuereg'),url("/assets/fonts/ArbFONTS-Tajawal-Bold.ttf") format("woff");font-weight:700;font-style:normal;font-display: swap;}
+@font-face{font-family:"helveticaneuereg";src:local('helveticaneuereg'),url("/assets/fonts/ArbFONTS-Samim.ttf") format("woff");font-weight:400;font-style:normal;font-display: swap;}
+@font-face{font-family:"helveticaneuereg";src:local('helveticaneuereg'),url("/assets/fonts/ArbFONTS-Samim-Bold.ttf") format("woff");font-weight:700;font-style:normal;font-display: swap;}
 
 body{
 	background: #ebecf1;
