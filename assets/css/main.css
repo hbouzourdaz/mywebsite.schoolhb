@@ -471,7 +471,7 @@ color: #656fff;
 .dark-mode .dropdown-item:focus, .dark-mode .dropdown-item:hover {
     color: #fff;
     text-decoration: none;
-    background-color: rgb(140 140 140 / 15%);
+    background-color: rgba(153, 149, 149, 0.349);
 }
 .dark-mode article.article, .dark-mode .dropdown-menu.show{
     background-color: #232424;
