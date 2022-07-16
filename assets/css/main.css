@@ -1,4 +1,4 @@
-@font-face{font-family:"helveticaneuereg";src:local('helveticaneuereg'),url("/assets/fonts/hanimation-Regular.ttf") format("woff");font-weight:400;font-style:normal;font-display: swap;}
+@font-face{font-family:"helveticaneuereg";src:local('helveticaneuereg'),url("/assets/fonts/ArbFONTS-hanimation-regular.ttf") format("woff");font-weight:400;font-style:normal;font-display: swap;}
 @font-face{font-family:"helveticaneuereg";src:local('helveticaneuereg'),url("/assets/fonts/hanimation-Bold.ttf") format("woff");font-weight:700;font-style:normal;font-display: swap;}
 
 body{
